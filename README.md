@@ -1,9 +1,9 @@
-This release contains a labeled dataset of 2206 images of waste materials, divided into three primary categories: **Wet Waste**, **Dry Waste**, and **Metal Waste**.
+This release contains a labelled dataset of 2206 images of waste materials, divided into three primary categories: **Non-Recyclable Waste**, **Recyclable Waste**, and **Hazardous Waste**.
 
 📁 Dataset Composition:
-- Wet Waste: 720 images
-- Dry Waste: 742 images
-- Metal Waste: 744 images
+- Non-Recyclable Waste: 720 images
+- Recyclable Waste: 742 images
+- Hazardous Waste: 744 images
 
 🧾 Key Features:
 - Collected from real-world sources including household trash, public waste spots, and open-source image repositories.
